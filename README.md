@@ -1,8 +1,10 @@
-# bs-react-i18next
+# Rescript-react-i18next
+
+This is the Rescript version for [i18next/bs-react-i18next](https://github.com/i18next/bs-react-i18next)
 
 ## Introduction
 
-Bucklescript + ReasonReact binding for [react-i18next](https://github.com/i18next/react-i18next) components. 
+Rescript binding for [react-i18next](https://github.com/i18next/react-i18next) components. 
 
 t and Trans components are minimally functional but HOC and Component bindings to provide t to the context 
 are not yet available.  If you want to use this in the current state, you need to initialize i18next
@@ -13,10 +15,10 @@ See [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) repo for credi
 
 ## Installation
 ```
-npm install --save bs-react-i18next
+npm install --save rescript-react-i18next
 ```
 
-* Add `bs-react-i18next` to `bs-dependencies` in `bsconfig.json`.
+* Add `rescript-react-i18next` to `bs-dependencies` in `bsconfig.json`.
 
 
 ## Usage
